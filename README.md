@@ -5,6 +5,6 @@
 - 📫 How to reach me, You can reach me by E-mail (alcoffm@gmail.com) or Discord (Pers0n1212#7496)
 
 <!---
-Pers0n1212/Pers0n1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pers0n1212 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
